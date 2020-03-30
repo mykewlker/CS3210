@@ -2,5 +2,5 @@
 # Project 1
 # Authors:
 #   Nicole Weickert
-#   Mike Walker
+#   Myke Walker
 
